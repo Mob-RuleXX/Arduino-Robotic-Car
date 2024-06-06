@@ -186,7 +186,6 @@ void loop() {
       analogWrite(motor2SpeedPin, 150); // Adjust speed as needed
     }
   }
-
   // Delay for a short period to avoid excessive readings
   delay(10);
 }
